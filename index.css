@@ -71,7 +71,7 @@ top: 90px;}
 
 .start{    color: #daa520;
     background: #190f50;
-    border-radius: 30px;
+    border-radius: 10px;
     border: none;
     padding: 9px;
     font-size: 22px;
@@ -251,7 +251,7 @@ position: initial;
      margin: 0px;
         height: 720px;}
 
-     section{margin: 20px 10px 0px 10px;}
+     section{margin: 80px 10px 0px 10px;}
        
 
 .hamburger{display: block;}
@@ -298,11 +298,9 @@ transition: all 0.4s ease-in-out;
 
 .goods-section1{margin:60px 5px 10px 5px;}
 
-.goods-section2{margin:60px 5px 10px 5px;
-        background: lightcyan; }
+.goods-section2{margin:60px 5px 10px 5px;}
     
-.goods-section3{margin:60px 5px 50px 5px;
-            background: aliceblue }
+.goods-section3{margin:60px 5px 50px 5px;}
     
  .row{flex-grow:1;
     margin: 10px;
@@ -312,7 +310,7 @@ transition: all 0.4s ease-in-out;
 .product-images{height: auto;
     width: 100%;}
 
-    .product-images1{height: 38%;
+    .product-images1{height: 39%;
         width: 100%;}
 
         
@@ -389,7 +387,7 @@ position: initial;
      margin: 0px;
         height: 720px;}
 
-     section{margin: 20px 10px 0px 10px;}
+     section{margin: 80px 10px 0px 10px;}
        
 
 .hamburger{display: block;}
@@ -436,11 +434,9 @@ transition: all 0.4s ease-in-out;
 
 .goods-section1{margin:60px 5px 10px 5px;}
 
-.goods-section2{margin:60px 5px 10px 5px;
-        background: lightcyan; }
+.goods-section2{margin:30px 5px 10px 5px; }
     
-.goods-section3{margin:60px 5px 50px 5px;
-            background: aliceblue }
+.goods-section3{margin:30px 5px 50px 5px; }
     
  .row{flex-grow:1;
     margin: 10px;
@@ -450,7 +446,7 @@ transition: all 0.4s ease-in-out;
 .product-images{height: auto;
     width: 100%;}
 
-    .product-images1{height: 43%;
+    .product-images1{height: 45%;
         width: 100%;}
 
         
