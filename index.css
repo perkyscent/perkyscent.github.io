@@ -130,10 +130,6 @@ box-shadow: -4px 6px 102px 13px rgba(237,237,237,0.52);
     border-radius: 15px;
     width: 100%;}
 
-    .product-images1{height: 61%;
-        border-radius: 15px;
-        width: 100%;}
-
 
 
 .buy-now{text-align: center;
@@ -187,8 +183,6 @@ width: 28%;}
     .form{flex-grow: 1;
         width: 0%;}
 
-    .product-images1{height: 45%;
-        width: 100%;}
 
     
     .four-row-flexbox {
@@ -317,8 +311,6 @@ transition: all 0.4s ease-in-out;
 .product-images{height: auto;
     width: 100%;}
 
-    .product-images1{height: 39%;
-        width: 100%;}
 
         
         .buy-now{text-align: center;
@@ -452,9 +444,6 @@ transition: all 0.4s ease-in-out;
 
 .product-images{height: auto;
     width: 100%;}
-
-    .product-images1{height: 45%;
-        width: 100%;}
 
         
         .buy-now{text-align: center;
