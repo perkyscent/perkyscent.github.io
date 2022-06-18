@@ -113,9 +113,7 @@ color: #daa520;}
 
 .row{flex-grow:1;
     display:flex;
-box-shadow: -4px 6px 102px 13px rgba(237,237,237,0.52);
--webkit-box-shadow: -4px 6px 102px 13px rgba(237,237,237,0.52);
--moz-box-shadow: -4px 6px 102px 13px rgba(237,237,237,0.52);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     flex-direction: column;
     margin: 5px;
     justify-content:center;
